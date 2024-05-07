@@ -1,0 +1,11 @@
+1)
+java --version
+or
+sudo apt update
+sudo apt install default-jdk
+
+2)
+snap find "intellij"
+
+3)
+sudo snap install intellij-idea-community --classic
