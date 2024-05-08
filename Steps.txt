@@ -9,3 +9,19 @@ snap find "intellij"
 
 3)
 sudo snap install intellij-idea-community --classic
+
+//extras(Spark)
+sudo su -
+
+mkdir -p /opt/spark
+
+cd /opt/spark
+
+/opt/spark#
+
+(Go to Apache Spark downloads (Mirror site link) and copy it)
+
+
+
+//extras
+https://www.youtube.com/watch?v=dt46VhY_7Ro&ab_channel=r2schools
